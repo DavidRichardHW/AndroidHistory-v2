@@ -22,7 +22,7 @@ O site conta a história do Bugdroid, o mascote da empresa/sistema Android, abra
 
 
 
-## Estrutura
+## Estrutura do projeto:
 
 - index.html (HTML: Estrutura do site)
 - style/style.css (CSS: Estilização)
@@ -30,7 +30,7 @@ O site conta a história do Bugdroid, o mascote da empresa/sistema Android, abra
 
 
 
-## Link do Site
+## Link do Site:
 
 Você pode acessar meu site no GitHub Pages clicando aqui > [AndroidHistory-v2](https://davidrichardhw.github.io/AndroidHistory-v2/) <
 
