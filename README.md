@@ -44,4 +44,4 @@ Esta é a segunda verção de um site foi desenvolvido por mim [David "hawize" R
 
 ## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [AndroidHistory](https://davidrichardhw.github.io/AndroidHistory/) < Fique a vontade para deixar dicas e opiniões. 😁
+Você pode acessar meu site no GitHub Pages clicando aqui > [AndroidHistory-2](https://davidrichardhw.github.io/AndroidHistory-v2/) < Fique a vontade para deixar dicas e opiniões. 😁
